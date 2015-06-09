@@ -1,0 +1,6 @@
+*.user
+*.suo
+*.Caches
+*/Bin
+*/Obj
+*.vs
